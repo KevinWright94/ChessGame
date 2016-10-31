@@ -2,7 +2,7 @@
  * ai.h
  *
  *  Created on: Oct 21, 2016
- *      Author: Kevin
+ *  Author: Kevin Wright
  */
 
 #ifndef AI_H_
