@@ -2,7 +2,7 @@
  * chess.cpp
  *
  *  Created on: Oct 21, 2016
- *      Author: Kevin
+ *  Author: Kevin Wright
  */
 #include"chess.h"
 
